@@ -16,5 +16,10 @@
 
 Особые условия: Реализация должна быть только на BP, без использования плагинов.
 
+[exe build](https://drive.google.com/file/d/1sulDG_rJZ1BE8fXOp9TPMcrO1kV7cDf_/view?usp=sharing)
+ 
+ Видео с демонстрацией:
+ 
+
 
 [![Video](http://img.youtube.com/vi/DRVdUrqg7Yo/0.jpg)](http://www.youtube.com/watch?v=DRVdUrqg7Yo)
