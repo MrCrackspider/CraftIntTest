@@ -15,3 +15,6 @@
 только один ключ. Если оба ключа на месте - дверь открывается.
 
 Особые условия: Реализация должна быть только на BP, без использования плагинов.
+
+
+[![Video](http://img.youtube.com/vi/DRVdUrqg7Yo/0.jpg)](http://www.youtube.com/watch?v=DRVdUrqg7Yo)
